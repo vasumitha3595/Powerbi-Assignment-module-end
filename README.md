@@ -83,7 +83,7 @@ A to-scale schematic of the report page (reconstructed from the file's layout de
 
 ## 📄 Documentation
 
-See [`Fleet_Dashboard_Documentation.pdf`](Fleet_Dashboard_Documentation.pdf) for a full breakdown of the data model, every visual and the fields it uses, and a narrative walkthrough of the dashboard.
+See [`Fleet_Dashboard_Documentation (1).pdf`](Fleet_Dashboard_Documentation (1).pdf for a full breakdown of the data model, every visual and the fields it uses, and a narrative walkthrough of the dashboard.
 
 ## ✍️ Author
 
