@@ -63,7 +63,8 @@ In short: move from "what happened" (KPIs) to "why it happened" (Key Drivers, de
 
 A to-scale schematic of the report page (reconstructed from the file's layout definition):
 
-<img width="876" height="497" alt="image" src="https://github.com/user-attachments/assets/ea36417e-b67b-4466-9de8-f3ad18697f6e" />
+<img width="906" height="524" alt="image" src="https://github.com/user-attachments/assets/e3a4dc55-c5b8-4ef8-a7bb-698d8c43789e" />
+
 
 ## 📁 Repository Contents
 
